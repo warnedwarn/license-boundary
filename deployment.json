@@ -1,0 +1,12 @@
+{
+  "network": "StudioNet",
+  "account": "warnedwarn",
+  "deployerAddress": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+  "contractAddress": "0xdA51b0D5a423CF227237E7756796da74Af9B8275",
+  "deploymentTransaction": "0x105ebe985813f75b0b21ececc3d5d98027e032233574b2d8cfa6553817abf2b5",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "bc6d89dc52282e2c63bf4d862c812173772e31327d6e7a7a0b6b50d83dd1dd36",
+  "sourceCommit": "ad672f7f2a98cfcd5bc812da5d7fd382f9c61c3d",
+  "repository": "https://github.com/warnedwarn/license-boundary"
+}

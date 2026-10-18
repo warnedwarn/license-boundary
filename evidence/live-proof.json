@@ -1,0 +1,59 @@
+{
+  "reviewId": "LICENSE-1792287461",
+  "transactions": {
+    "open": "0x9368d1869a076d32bd6e3f43d3dd04ce1f53fbae3c39aa40e1fb4188b9dceab8",
+    "evaluate": "0x44014bb6d6a45c651f9e68c574730e934cb362ad3f75b631d959b8edb51e6d7e"
+  },
+  "state": {
+    "commitments": [
+      "ATTRIBUTION",
+      "PRESERVE_NOTICE",
+      "PUBLISH_SOURCE"
+    ],
+    "component_urls": [
+      "https://raw.githubusercontent.com/warnedwarn/license-boundary/ad672f7f2a98cfcd5bc812da5d7fd382f9c61c3d/evidence/component-core-license.md",
+      "https://raw.githubusercontent.com/warnedwarn/license-boundary/ad672f7f2a98cfcd5bc812da5d7fd382f9c61c3d/evidence/component-widget-license.md",
+      "https://raw.githubusercontent.com/warnedwarn/license-boundary/ad672f7f2a98cfcd5bc812da5d7fd382f9c61c3d/evidence/component-font-license.md"
+    ],
+    "digests": [
+      "a41ad37d64c220117ecf93dc6d7377400698a2f6b05f879798109bd27f53e6ca",
+      "28e14333c047e84cb3b71007cf93e0e19932703069f2cd4f278cca22c55d6412",
+      "0f7740a17f20fe1822c5aeaa032d55b0bddb47d0718deabd4a913943b35025e2"
+    ],
+    "id": "LICENSE-1792287461",
+    "missing": [],
+    "owner": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "required_union": [
+      "ATTRIBUTION",
+      "PRESERVE_NOTICE",
+      "PUBLISH_SOURCE"
+    ],
+    "rows": [
+      {
+        "index": 0,
+        "required": [
+          "ATTRIBUTION",
+          "PRESERVE_NOTICE"
+        ],
+        "status": "OK"
+      },
+      {
+        "index": 1,
+        "required": [
+          "PUBLISH_SOURCE"
+        ],
+        "status": "OK"
+      },
+      {
+        "index": 2,
+        "required": [
+          "ATTRIBUTION"
+        ],
+        "status": "OK"
+      }
+    ],
+    "state": "COMPATIBLE",
+    "title": "Public kiosk distribution bundle"
+  },
+  "fixtureDisclosure": "All license pages are operator-authored technical fixtures. They demonstrate source binding and obligation coverage and are not legal advice or independent authorities."
+}
